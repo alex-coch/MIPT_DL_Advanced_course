@@ -1,2 +1,14 @@
 https://docs.google.com/document/d/1kY989HPtrGS6eubd021VxmzbkTrLD5CK4_EL_b9rWSk/edit#
 https://docs.google.com/spreadsheets/d/1RWu04jRKQQH1_mqcNXwdpSdIuqyx8e4mFRKldYGpol8/edit#gid=601294132
+
+pretrained model
+https://github.com/xinntao/ESRGAN
+
+requirements
+https://periwinkle-wedge-678.notion.site/tg-bots-project-4f57c3d7a8754b6d94622ebf1993a603
+
+plan
+https://docs.google.com/document/d/1P95JHtnKt7YgWxIVGfe3am1NZ8DepKu_zpqNVZkyFa0/edit
+
+bot
+t.me/esrgan2023alexcoch_bot
